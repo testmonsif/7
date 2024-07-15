@@ -1,1 +1,2 @@
 *** Settings ***
+Library  String
